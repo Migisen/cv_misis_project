@@ -212,3 +212,6 @@ Temporary Items
 *.vsix
 
 dataset/*
+lightning_logs
+cv-csrnet
+wandb
